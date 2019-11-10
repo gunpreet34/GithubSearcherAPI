@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GithubSearcherAPI</string>
+    <string name="get_profiles">Get Profiles</string>
+    <string name="no_internet">No Internet Connection. \n Please try again later.</string>
+    <string name="loading_profiles">Loading Profiles…</string>
+    <string name="loading_error">Some Error Occurred.</string>
+    <string name="profiles_updated">Profiles Updated!</string>
+    <string name="repo_name">Repository Name</string>
+    <string name="repo_desc">Repository Description</string>
+    <string name="repo_link">Repository Link</string>
 </resources>
